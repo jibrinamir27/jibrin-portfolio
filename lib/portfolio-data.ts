@@ -127,8 +127,8 @@ export const SOCIAL_LINKS = {
   github: "https://github.com/jibrinamir27",
   githubDisplay: "github.com/jibrinamir27",
   // Replace placeholders below with your actual email and LinkedIn URL
-  email: "[YOUR EMAIL]",
-  linkedin: "[YOUR LINKEDIN URL]",
+  email: "jibrinamir27@gmail.com",
+  linkedin: "www.linkedin.com/in/jibrin-adamu-32503127b",
 };
 
 export const HERO_TERMINAL_LINES = [
