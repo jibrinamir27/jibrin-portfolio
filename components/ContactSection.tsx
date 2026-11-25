@@ -175,12 +175,6 @@ export function ContactSection() {
                 )}
               </div>
 
-              <div className="mt-6 rounded-xl border border-slate-800/80 bg-[#0B1018] p-4 font-mono text-[11px] leading-relaxed text-slate-400">
-                Update <code className="text-sky-300">SOCIAL_LINKS</code> inside{" "}
-                <code className="text-slate-200">lib/portfolio-data.ts</code> to replace{" "}
-                <code className="text-amber-300">[YOUR EMAIL]</code> and{" "}
-                <code className="text-amber-300">[YOUR LINKEDIN URL]</code>.
-              </div>
             </div>
           </RevealBlock>
 
