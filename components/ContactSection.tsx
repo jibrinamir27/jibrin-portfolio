@@ -40,12 +40,12 @@ export function ContactSection() {
   };
 
   const mailtoHref = hasEmail
-    ? `mailto:${SOCIAL_LINKS.email}?subject=${encodeURIComponent(
-        subject || "Portfolio Inquiry"
-      )}&body=${encodeURIComponent(
-        `Name: ${name}\nEmail: ${email}\n\n${message}`
-      )}`
-    : undefined;
+  ? `mailto:jibrinamir27@gmail.com?subject=${encodeURIComponent(
+      subject || "Portfolio Inquiry"
+    )}&body=${encodeURIComponent(
+      `Name: ${name}\nEmail: ${email}\n\n${message}`
+    )}`
+  : undefined;
 
   return (
     <section
